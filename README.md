@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sajanmittal/sajanmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/sajanmittal"><img src="https://api.daily.dev/devcards/7f786e67e64e4a749969890a997e429a.png?r=q91" width="400" alt="Sajan Mittal's Dev Card"/></a>
